@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         真实链接替换
-// @namespace    https://www.frank6.com/
-// @version      0.4
-// @description  将页面中所有链接文本为网址，href却不一致的a标签替换的小工具
+// @namespace    https://frank6.com/
+// @version      0.5
+// @description  旨在将页面中所有链接文本为网址，href却不一致的a标签替换成该链接显示文本的小工具
 // @author       Frank6
 // @grant        none
 // @include      http*
